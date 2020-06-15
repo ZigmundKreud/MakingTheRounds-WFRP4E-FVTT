@@ -19,7 +19,6 @@
     }	
   ],
   "languages": ["en"],
-  "minimumCoreVersion": "0.6",
   "manifest": "https://raw.githubusercontent.com/CStuartEKerrigan/MakingTheRounds-WFRP4E-FVTT/master/module.json",
   "download": "https://github.com/CStuartEKerrigan/MakingTheRounds-WFRP4E-FVTT/archive/master.zip",
   "url": "https://github.com/CStuartEKerrigan/MakingTheRounds-WFRP4E-FVTT/"
