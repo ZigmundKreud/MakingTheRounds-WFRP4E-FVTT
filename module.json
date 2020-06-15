@@ -1,0 +1,26 @@
+{
+  "name": "wfrp4e-makingtherounds",
+  "title": "Making the Rounds (WFRP 4e)",
+  "description": "The introductory WFRP 4e scenario from the WFRP Starter Set.",
+  "version": "0.2",
+  "author": "Stu",
+  "systems": ["wfrp4e"],
+  "styles": [
+    "./styles.css"
+  ],
+  "packs": [
+    {
+      "name": "RoundsActors",
+      "label": "Making The Rounds Actors",
+      "path": "packs/making-the-rounds.db",
+      "entity": "Actor",
+      "module": "wfrp4e-makingtherounds",
+      "system": "wfrp4e"
+    }	
+  ],
+  "languages": ["en"],
+  "minimumCoreVersion": "0.62",
+  "manifest": "https://raw.githubusercontent.com/CStuartEKerrigan/MakingTheRounds-WFRP4E-FVTT/master/module.json",
+  "download": "https://github.com/CStuartEKerrigan/MakingTheRounds-WFRP4E-FVTT/archive/master.zip",
+  "url": "https://github.com/CStuartEKerrigan/MakingTheRounds-WFRP4E-FVTT/"
+} 
