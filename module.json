@@ -2,7 +2,7 @@
   "name": "wfrp4e-makingtherounds",
   "title": "Making the Rounds (WFRP 4e)",
   "description": "The introductory WFRP 4e scenario from the WFRP Starter Set.",
-  "version": "0.2",
+  "version": "0.2.1",
   "author": "Stu",
   "systems": ["wfrp4e"],
   "styles": [
